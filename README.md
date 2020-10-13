@@ -15,7 +15,7 @@
 **Step 5.** Click *outfile*，results obtained. 
 
 
-Written by Shanzhou Diao ([Email](coder_vanir@163.com)), Editted by [Hanfeng Zhai](hanfengzhai.net).
+Written by Shanzhou Diao ([Email](coder_vanir@163.com)), Editted by [Hanfeng Zhai](http://hanfengzhai.net/).
 
 
 
