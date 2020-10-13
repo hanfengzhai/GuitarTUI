@@ -10,7 +10,7 @@
 
 **Step 3.** Now you may need some force measuring equipment to measure the force on the guitar string (if not you can apply other methods :)), type the force value on the *output force* blank（Newton） 
 
-**Step 4.** Click *getforce*, you may obatin ΔF, ΔL, Directions(CW -> clockwise || DW -> anti-clockwise), Turn number (rounds). 
+**Step 4.** Click *getforce*, you may obatin ΔF, ΔL, Directions (CW -> clockwise || DW -> anti-clockwise), Turn number (rounds). 
 
 **Step 5.** Click *outfile*，results obtained. 
 
