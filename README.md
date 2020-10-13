@@ -21,7 +21,7 @@ Written by Shanzhou Diao ([Email](coder_vanir@163.com)), Editted by [Hanfeng Zha
 
 ***
 
-# 中文版使用说明
+## 中文版使用说明
 
 **1.** 在下拉列表string type选中吉他弦型号.
 
