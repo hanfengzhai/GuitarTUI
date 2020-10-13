@@ -1,4 +1,5 @@
 # GuitarTUI
+
 **GuitarTUI** is a user interface designed for guitar string sound tuning.
 
 ## User Tutorial
@@ -12,3 +13,5 @@
 *Step 4.* 点击getforce,可以获得 $\Delta$ F、\delta L、Direction(转动方向，CW顺时针，DW逆时针)、Turn number(圈数) 
 
 *Step 5.* 点击outfile，可以画图
+
+<script type="math/tex" id="MathJax-Element-123">\alpha</script>
