@@ -15,7 +15,7 @@
 **Step 5.** Click *outfile*，results obtained. 
 
 
-Written by Shanzhou Diao ([Email](coder_vanir@163.com)), Editted by [Hanfeng Zhai](http://hanfengzhai.net/).
+Written by Shanzhou Diao ([Email](mailto:coder_vanir@163.com)), Editted by [Hanfeng Zhai](http://hanfengzhai.net/).
 
 
 
@@ -33,4 +33,4 @@ Written by Shanzhou Diao ([Email](coder_vanir@163.com)), Editted by [Hanfeng Zha
 
 **5.** 点击outfile，可以画图.
 
-作者：刁山洲([邮件](coder_vanir@163.com))；翟晗锋负责修改，原始项目[智能钢琴调音设备探究与设计](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=422368&year=2019&type=student)负责人。
+作者：刁山洲([邮件](mailto:coder_vanir@163.com))；翟晗锋负责修改，原始项目[智能钢琴调音设备探究与设计](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=422368&year=2019&type=student)负责人。
